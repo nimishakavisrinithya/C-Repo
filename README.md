@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1580-shuffle-the-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
