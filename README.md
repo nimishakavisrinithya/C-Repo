@@ -6,6 +6,7 @@
 | ------- |
 | [1580-shuffle-the-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
