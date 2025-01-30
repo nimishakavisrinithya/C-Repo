@@ -12,6 +12,7 @@
 | [1791-richest-customer-wealth](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2714-left-and-right-sum-differences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -69,4 +70,8 @@
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2714-left-and-right-sum-differences) |
+## String
+|  |
+| ------- |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
