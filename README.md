@@ -16,6 +16,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
