@@ -3,7 +3,8 @@
  */
  int find(char *s, char x)
  {
-    for(int i=0; i<strlen(s); i++)
+    int b = strlen(s);
+    for(int i=0; i<b; i++)
     {
         if(s[i]== x) return 1;
     }
