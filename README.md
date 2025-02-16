@@ -38,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -69,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
