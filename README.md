@@ -31,6 +31,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -94,4 +96,8 @@
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
