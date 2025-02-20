@@ -55,6 +55,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
