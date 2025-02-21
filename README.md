@@ -52,6 +52,7 @@
 | [0009-palindrome-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
