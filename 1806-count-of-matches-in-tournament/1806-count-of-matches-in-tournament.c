@@ -1,5 +1,4 @@
 int match(int t, int m){
-    //if(m==0) return 0;
     if(t%2==0){
          m= t/2;
          if(m==0) return 0;
