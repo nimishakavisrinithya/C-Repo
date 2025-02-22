@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
@@ -59,6 +60,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1920-determine-color-of-a-chessboard-square) |
