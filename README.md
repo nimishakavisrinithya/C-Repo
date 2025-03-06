@@ -78,6 +78,7 @@
 | [2238-a-number-after-a-double-reversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
