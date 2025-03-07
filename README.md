@@ -157,6 +157,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -183,4 +184,8 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2507-number-of-common-factors) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
