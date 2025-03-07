@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
@@ -109,6 +110,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -188,4 +190,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
