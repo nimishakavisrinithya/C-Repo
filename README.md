@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
@@ -133,6 +135,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0013-roman-to-integer) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
