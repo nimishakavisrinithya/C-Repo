@@ -56,6 +56,7 @@
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0383-ransom-note) |
+| [0782-jewels-and-stones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
@@ -155,6 +156,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0520-detect-capital) |
+| [0782-jewels-and-stones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1920-determine-color-of-a-chessboard-square) |
