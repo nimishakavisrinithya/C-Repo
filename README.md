@@ -16,6 +16,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2048-build-array-from-permutation) |
@@ -60,6 +61,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -108,6 +110,7 @@
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [0782-jewels-and-stones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3194-find-words-containing-character) |
@@ -171,6 +175,7 @@
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
