@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0485-max-consecutive-ones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
@@ -178,6 +179,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1610-xor-operation-in-an-array) |
