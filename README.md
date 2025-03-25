@@ -26,6 +26,7 @@
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2714-left-and-right-sum-differences) |
@@ -65,6 +66,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3412-permutation-difference-between-two-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3412-permutation-difference-between-two-strings) |
@@ -147,6 +149,7 @@
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
@@ -174,6 +177,7 @@
 | [1944-truncate-sentence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3194-find-words-containing-character) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3379-score-of-a-string) |
