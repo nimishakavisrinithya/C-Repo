@@ -34,6 +34,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -186,6 +187,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2886-faulty-keyboard](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2886-faulty-keyboard) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3194-find-words-containing-character) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3379-score-of-a-string) |
