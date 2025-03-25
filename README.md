@@ -186,6 +186,7 @@
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3412-permutation-difference-between-two-strings) |
+| [3636-check-balanced-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation
 |  |
 | ------- |
