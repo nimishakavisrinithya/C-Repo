@@ -26,6 +26,7 @@
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -177,6 +178,7 @@
 | [1944-truncate-sentence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3194-find-words-containing-character) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -255,4 +257,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
