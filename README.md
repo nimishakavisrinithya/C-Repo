@@ -198,6 +198,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2401-count-asterisks](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2401-count-asterisks) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2819-remove-trailing-zeros-from-a-string) |
