@@ -78,6 +78,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2825-minimize-string-length](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2825-minimize-string-length) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3412-permutation-difference-between-two-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -204,6 +205,7 @@
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2825-minimize-string-length](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3194-find-words-containing-character) |
