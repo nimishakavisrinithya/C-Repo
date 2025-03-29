@@ -28,6 +28,7 @@
 | [1833-find-the-highest-altitude](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -183,6 +184,7 @@
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
