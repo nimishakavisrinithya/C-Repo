@@ -131,6 +131,7 @@
 | [2752-sum-multiples](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3371-harshad-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
