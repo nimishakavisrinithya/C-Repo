@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1806-count-of-matches-in-tournament) |
@@ -107,6 +108,7 @@
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -208,6 +210,7 @@
 | [0344-reverse-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0742-to-lower-case) |
