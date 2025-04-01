@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0485-max-consecutive-ones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1241-decompress-run-length-encoded-list) |
@@ -83,6 +84,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -108,6 +110,7 @@
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1013-fibonacci-number) |
@@ -178,6 +181,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -185,6 +189,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -251,6 +256,7 @@
 | ------- |
 | [0136-single-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
