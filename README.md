@@ -142,6 +142,7 @@
 | [3371-harshad-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Counting
@@ -257,6 +258,7 @@
 | [3379-score-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3447-clear-digits) |
+| [3567-convert-date-to-binary](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation
 |  |
