@@ -79,6 +79,7 @@
 | [2886-faulty-keyboard](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3811-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 | [3447-clear-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3636-check-balanced-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
