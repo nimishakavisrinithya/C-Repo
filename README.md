@@ -230,6 +230,7 @@
 | [1651-shuffle-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-goal-parser-interpretation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1944-truncate-sentence) |
