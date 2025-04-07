@@ -76,6 +76,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -254,6 +255,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2886-faulty-keyboard) |
@@ -341,6 +343,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
