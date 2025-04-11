@@ -60,6 +60,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
