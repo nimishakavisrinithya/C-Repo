@@ -236,6 +236,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
@@ -364,6 +365,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2128-reverse-prefix-of-word) |
