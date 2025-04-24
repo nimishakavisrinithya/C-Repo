@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0485-max-consecutive-ones) |
+| [0941-sort-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0941-sort-array-by-parity) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1241-decompress-run-length-encoded-list) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
@@ -202,6 +203,7 @@
 | [0344-reverse-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0941-sort-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0941-sort-array-by-parity) |
 | [2128-reverse-prefix-of-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -220,6 +222,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
+| [0941-sort-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0941-sort-array-by-parity) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
