@@ -40,6 +40,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -230,6 +231,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -343,6 +345,7 @@
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1448-maximum-69-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -409,4 +412,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
