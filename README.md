@@ -62,6 +62,7 @@
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3226-minimum-number-game](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3226-minimum-number-game) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -93,6 +94,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2886-faulty-keyboard) |
+| [3226-minimum-number-game](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3811-reverse-degree-of-a-string) |
@@ -193,6 +195,7 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3226-minimum-number-game](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -235,6 +238,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
