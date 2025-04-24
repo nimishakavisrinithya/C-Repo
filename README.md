@@ -51,6 +51,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2639-separate-the-digits-in-an-array) |
@@ -125,6 +126,7 @@
 | [2406-decode-the-message](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -217,6 +219,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2442-number-of-arithmetic-triplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -243,6 +246,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2836-neither-minimum-nor-maximum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3226-minimum-number-game) |
