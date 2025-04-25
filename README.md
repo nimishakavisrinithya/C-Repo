@@ -176,6 +176,7 @@
 | [3567-convert-date-to-binary](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
@@ -337,6 +338,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
 |  |
 | ------- |
