@@ -81,6 +81,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3723-sum-of-good-numbers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
