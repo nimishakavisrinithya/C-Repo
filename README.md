@@ -449,6 +449,7 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0783-search-in-a-binary-search-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -457,4 +458,5 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0783-search-in-a-binary-search-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
