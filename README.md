@@ -376,6 +376,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -408,6 +409,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2128-reverse-prefix-of-word) |
@@ -448,6 +450,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -457,6 +460,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
