@@ -377,6 +377,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -452,15 +453,18 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
