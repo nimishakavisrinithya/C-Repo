@@ -341,6 +341,7 @@
 | [3312-number-of-changing-keys](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3312-number-of-changing-keys) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3567-convert-date-to-binary) |
