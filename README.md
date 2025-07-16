@@ -12,6 +12,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0941-sort-array-by-parity) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -125,6 +126,7 @@
 | [0383-ransom-note](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -199,6 +201,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
@@ -260,6 +263,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1137-height-checker) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -445,6 +449,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
