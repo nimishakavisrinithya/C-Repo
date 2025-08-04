@@ -412,6 +412,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0975-range-sum-of-bst) |
@@ -420,6 +421,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0100-same-tree) |
 | [1005-univalued-binary-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1005-univalued-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
@@ -504,6 +506,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0783-search-in-a-binary-search-tree) |
@@ -519,6 +522,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0783-search-in-a-binary-search-tree) |
