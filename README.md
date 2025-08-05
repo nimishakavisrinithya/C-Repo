@@ -89,6 +89,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3723-sum-of-good-numbers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3778-transform-array-by-parity) |
+| [3790-fruits-into-baskets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [3447-clear-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3811-reverse-degree-of-a-string) |
 | [3905-partition-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3905-partition-string) |
 ## Hash Table
@@ -261,6 +263,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3790-fruits-into-baskets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -532,4 +535,12 @@
 | [0975-range-sum-of-bst](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1005-univalued-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2384-root-equals-sum-of-children) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
