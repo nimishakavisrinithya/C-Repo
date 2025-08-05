@@ -15,6 +15,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0841-shortest-distance-to-a-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0841-shortest-distance-to-a-character) |
+| [0940-fruit-into-baskets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0941-sort-array-by-parity) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1137-height-checker) |
@@ -129,6 +130,7 @@
 | [0567-permutation-in-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0782-jewels-and-stones) |
+| [0940-fruit-into-baskets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0940-fruit-into-baskets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -454,6 +456,7 @@
 | [0567-permutation-in-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0940-fruit-into-baskets) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
