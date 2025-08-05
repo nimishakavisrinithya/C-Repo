@@ -7,7 +7,7 @@ public:
         while(r<n){ 
             mpp[fruits[r]]++; 
             //r++; 
-             while(mpp.size()>2){
+             while(mpp.size()==3){
                 mpp[fruits[l]]--;
                  if(mpp[fruits[l]]==0){
                     mpp.erase(fruits[l]);
