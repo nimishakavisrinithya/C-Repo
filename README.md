@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0485-max-consecutive-ones) |
@@ -223,6 +224,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1791-richest-customer-wealth) |
@@ -420,6 +422,7 @@
 | [0100-same-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
 | [0975-range-sum-of-bst](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1005-univalued-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
@@ -427,11 +430,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
 | [1005-univalued-binary-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1005-univalued-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 ## Enumeration
 |  |
