@@ -52,6 +52,7 @@
 | [2048-build-array-from-permutation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2103-find-all-groups-of-farmland](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2103-find-all-groups-of-farmland) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -234,6 +235,7 @@
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1791-richest-customer-wealth) |
+| [2103-find-all-groups-of-farmland](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2103-find-all-groups-of-farmland) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -434,6 +436,7 @@
 | [0975-range-sum-of-bst](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1005-univalued-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
+| [2103-find-all-groups-of-farmland](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2103-find-all-groups-of-farmland) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -442,6 +445,7 @@
 | [0695-max-area-of-island](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0695-max-area-of-island) |
 | [1005-univalued-binary-tree](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1005-univalued-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
+| [2103-find-all-groups-of-farmland](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2103-find-all-groups-of-farmland) |
 ## Union Find
 |  |
 | ------- |
