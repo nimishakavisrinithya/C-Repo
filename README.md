@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
@@ -553,4 +554,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3790-fruits-into-baskets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
