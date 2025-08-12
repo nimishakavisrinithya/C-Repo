@@ -14,6 +14,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
+| [0413-arithmetic-slices](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0643-maximum-average-subarray-i) |
@@ -408,6 +409,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
+| [0413-arithmetic-slices](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -477,6 +479,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
