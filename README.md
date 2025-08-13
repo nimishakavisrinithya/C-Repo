@@ -67,6 +67,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2529-range-product-queries-of-powers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2529-range-product-queries-of-powers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2639-separate-the-digits-in-an-array) |
@@ -309,6 +310,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1833-find-the-highest-altitude) |
+| [2529-range-product-queries-of-powers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2714-left-and-right-sum-differences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -394,6 +396,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2529-range-product-queries-of-powers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2529-range-product-queries-of-powers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
