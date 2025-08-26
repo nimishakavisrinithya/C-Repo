@@ -138,6 +138,7 @@
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0383-ransom-note) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
@@ -331,6 +332,7 @@
 | [0344-reverse-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0383-ransom-note) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0520-detect-capital) |
@@ -486,6 +488,7 @@
 | [0187-repeated-dna-sequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0567-permutation-in-string) |
@@ -511,6 +514,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## String Matching
 |  |
 | ------- |
