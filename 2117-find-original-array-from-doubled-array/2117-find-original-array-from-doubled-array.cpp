@@ -4,7 +4,7 @@ public:
        vector<int>vec;
        int n = changed.size();
        if(n%2!=0) return vec;
-       unordered_map<int,int>mpp;
+      map<int,int>mpp;
        sort(changed.begin(), changed.end());
        for(int i=0; i<n; i++) mpp[changed[i]]++;
        for(int i=0; i<n; i++){
