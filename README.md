@@ -58,6 +58,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-find-all-groups-of-farmland](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2103-find-all-groups-of-farmland) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2117-find-original-array-from-doubled-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -156,6 +157,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2117-find-original-array-from-doubled-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2117-find-original-array-from-doubled-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2406-decode-the-message](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2442-number-of-arithmetic-triplets) |
@@ -302,6 +304,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2117-find-original-array-from-doubled-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
@@ -440,6 +443,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [2117-find-original-array-from-doubled-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Depth-First Search
 |  |
