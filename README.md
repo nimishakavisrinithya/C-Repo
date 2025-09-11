@@ -310,6 +310,7 @@
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2836-neither-minimum-nor-maximum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2836-neither-minimum-nor-maximum) |
+| [2887-sort-vowels-in-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -383,6 +384,7 @@
 | [2825-minimize-string-length](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2886-faulty-keyboard) |
+| [2887-sort-vowels-in-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
