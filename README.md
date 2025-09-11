@@ -17,6 +17,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0413-arithmetic-slices](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
@@ -261,6 +262,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -284,6 +286,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -408,6 +411,7 @@
 | [0187-repeated-dna-sequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1610-xor-operation-in-an-array) |
