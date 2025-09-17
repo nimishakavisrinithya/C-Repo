@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -413,6 +414,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
@@ -610,4 +612,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
