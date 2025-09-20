@@ -157,6 +157,7 @@
 | [0782-jewels-and-stones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0940-fruit-into-baskets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -373,6 +374,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -530,6 +532,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
