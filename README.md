@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0238-product-of-array-except-self) |
@@ -150,6 +151,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
@@ -318,6 +320,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
