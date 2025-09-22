@@ -80,6 +80,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -175,6 +176,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2406-decode-the-message](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2406-decode-the-message) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -251,6 +253,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3778-transform-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
