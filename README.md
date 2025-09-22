@@ -310,6 +310,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0300-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -644,4 +645,8 @@
 | [0078-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0090-subsets-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
