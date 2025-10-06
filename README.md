@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
@@ -157,6 +158,7 @@
 | [0229-majority-element-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -287,6 +289,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0567-permutation-in-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0841-shortest-distance-to-a-character) |
@@ -316,6 +319,7 @@
 | [0278-first-bad-version](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0792-binary-search) |
@@ -331,6 +335,7 @@
 | [0229-majority-element-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1137-height-checker) |
