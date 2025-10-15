@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -663,6 +664,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0090-subsets-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
