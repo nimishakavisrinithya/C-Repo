@@ -673,4 +673,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
