@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0090-subsets-ii) |
@@ -284,6 +285,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0165-compare-version-numbers) |
@@ -336,6 +338,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0242-valid-anagram) |
