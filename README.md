@@ -63,6 +63,7 @@
 | [1635-number-of-good-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1656-count-good-triplets) |
+| [1706-where-will-the-ball-fall](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1706-where-will-the-ball-fall) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -131,6 +132,7 @@
 | [0657-robot-return-to-origin](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0657-robot-return-to-origin) |
 | [1505-create-target-array-in-the-given-order](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1642-water-bottles) |
+| [1706-where-will-the-ball-fall](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1706-where-will-the-ball-fall) |
 | [1806-count-of-matches-in-tournament](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
@@ -272,6 +274,7 @@
 | [0695-max-area-of-island](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1706-where-will-the-ball-fall](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1706-where-will-the-ball-fall) |
 | [1791-richest-customer-wealth](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1791-richest-customer-wealth) |
 | [2103-find-all-groups-of-farmland](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2103-find-all-groups-of-farmland) |
 ## Heap (Priority Queue)
