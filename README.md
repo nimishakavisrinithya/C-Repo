@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -127,6 +128,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0657-robot-return-to-origin) |
@@ -270,6 +272,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
