@@ -126,6 +126,7 @@
 | [3723-sum-of-good-numbers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3790-fruits-into-baskets-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3811-reverse-degree-of-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3905-partition-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3905-partition-string) |
 ## Hash Table
 |  |
@@ -250,6 +252,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -317,6 +320,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -375,6 +379,7 @@
 | [3226-minimum-number-game](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3778-transform-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -492,6 +497,7 @@
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2507-number-of-common-factors) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
