@@ -47,6 +47,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1241-decompress-run-length-encoded-list) |
+| [1260-shift-2d-grid](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1260-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -135,6 +136,7 @@
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1260-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1642-water-bottles) |
 | [1706-where-will-the-ball-fall](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1706-where-will-the-ball-fall) |
@@ -281,6 +283,7 @@
 | [0059-spiral-matrix-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0695-max-area-of-island) |
+| [1260-shift-2d-grid](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1260-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1706-where-will-the-ball-fall) |
