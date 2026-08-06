@@ -44,6 +44,7 @@
 | [0940-fruit-into-baskets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0941-sort-array-by-parity) |
 | [1046-max-consecutive-ones-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1095-find-in-mountain-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1241-decompress-run-length-encoded-list) |
@@ -347,6 +348,7 @@
 | [0792-binary-search](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1095-find-in-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -694,6 +696,7 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1095-find-in-mountain-array) |
 ## Database
 |  |
 | ------- |
@@ -708,4 +711,8 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1729-find-followers-count](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1757-recyclable-and-low-fat-products) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
