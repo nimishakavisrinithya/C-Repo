@@ -34,6 +34,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0491-non-decreasing-subsequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0695-max-area-of-island) |
@@ -178,6 +179,7 @@
 | [0383-ransom-note](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0491-non-decreasing-subsequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0782-jewels-and-stones) |
@@ -487,6 +489,7 @@
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0397-integer-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0491-non-decreasing-subsequences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -693,6 +696,7 @@
 | [0051-n-queens](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0491-non-decreasing-subsequences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Interactive
