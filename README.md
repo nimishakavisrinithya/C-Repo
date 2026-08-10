@@ -740,4 +740,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
