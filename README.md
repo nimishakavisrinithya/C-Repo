@@ -53,6 +53,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1241-decompress-run-length-encoded-list) |
 | [1260-shift-2d-grid](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1260-shift-2d-grid) |
+| [1310-xor-queries-of-a-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1310-xor-queries-of-a-subarray) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -402,6 +403,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1046-max-consecutive-ones-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1310-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1833-find-the-highest-altitude) |
 | [2529-range-product-queries-of-powers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2529-range-product-queries-of-powers) |
@@ -503,6 +505,7 @@
 | [0397-integer-replacement](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0397-integer-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0491-non-decreasing-subsequences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1310-xor-queries-of-a-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1310-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1610-xor-operation-in-an-array) |
