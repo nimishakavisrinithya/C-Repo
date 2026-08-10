@@ -496,6 +496,7 @@
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0397-integer-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0491-non-decreasing-subsequences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -522,6 +523,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1013-fibonacci-number) |
