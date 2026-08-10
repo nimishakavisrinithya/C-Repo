@@ -734,4 +734,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
