@@ -490,6 +490,7 @@
 | [0090-subsets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
@@ -626,6 +627,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## String Matching
 |  |
