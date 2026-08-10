@@ -11,7 +11,6 @@ public:
                 j++;
                 i++;
             }
-            
             else if(j-1>=0 && grid[i][j]==-1 && grid[i][j-1]==-1){
                 j--;
                 i++;
