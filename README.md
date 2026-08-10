@@ -42,6 +42,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0841-shortest-distance-to-a-character) |
+| [0867-transpose-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0941-sort-array-by-parity) |
@@ -140,6 +141,7 @@
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1260-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1642-water-bottles) |
@@ -289,6 +291,7 @@
 | [0059-spiral-matrix-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0695-max-area-of-island) |
+| [0867-transpose-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1260-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
