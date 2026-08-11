@@ -157,6 +157,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2470-removing-stars-from-a-string) |
@@ -463,6 +464,7 @@
 | [1970-sorting-the-sentence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2128-reverse-prefix-of-word](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
