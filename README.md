@@ -258,6 +258,7 @@
 | [2383-add-two-integers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2507-number-of-common-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2523-closest-prime-numbers-in-range) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2571-find-the-pivot-integer) |
@@ -541,6 +542,7 @@
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2507-number-of-common-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2523-closest-prime-numbers-in-range) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -783,12 +785,15 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
