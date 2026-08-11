@@ -30,6 +30,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0300-longest-increasing-subsequence) |
@@ -502,6 +503,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0338-counting-bits) |
