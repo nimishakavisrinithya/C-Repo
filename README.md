@@ -39,6 +39,7 @@
 | [0413-arithmetic-slices](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0491-non-decreasing-subsequences) |
+| [0498-diagonal-traverse](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0695-max-area-of-island) |
@@ -146,6 +147,7 @@
 | [0059-spiral-matrix-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1260-shift-2d-grid) |
@@ -298,6 +300,7 @@
 | [0054-spiral-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1260-shift-2d-grid) |
