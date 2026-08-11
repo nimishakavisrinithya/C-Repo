@@ -25,6 +25,7 @@
 | [0162-find-peak-element](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0219-contains-duplicate-ii) |
@@ -228,6 +229,7 @@
 | [0013-roman-to-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0268-missing-number) |
@@ -528,6 +530,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2507-number-of-common-factors) |
@@ -594,6 +597,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1656-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -767,4 +771,16 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
