@@ -1,16 +1,20 @@
-class Solution {
-public:
-    vector<int> closestPrimes(int left, int right) {
-        vector<bool> prime(right + 1, true);
+vector<bool> prime(1e6 + 1, true);
+bool seive(){
         prime[0] = false;
         prime[1] = false;
-        for (int i = 2; i * i <= right; i++) {
+        for (int i = 2; i * i <= 1e6; i++) {
             if (prime[i]) {
-                for (int j = i * i; j <= right; j += i) {
+                for (int j = i * i; j <= 1e6; j += i) {
                     prime[j] = false;
                 }
             }
         }
+        return true;
+}
+bool k = seive();
+class Solution {
+public:
+    vector<int> closestPrimes(int left, int right) {
         int min = INT_MAX;
         vector<int> vec;
         vector<int> ans(2, -1);
