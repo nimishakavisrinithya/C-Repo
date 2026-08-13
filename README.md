@@ -233,6 +233,7 @@
 | [0009-palindrome-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0231-power-of-two) |
