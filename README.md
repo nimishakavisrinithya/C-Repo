@@ -523,6 +523,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0491-non-decreasing-subsequences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1310-xor-queries-of-a-subarray](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1310-xor-queries-of-a-subarray) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1610-xor-operation-in-an-array) |
