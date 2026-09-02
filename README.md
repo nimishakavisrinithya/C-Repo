@@ -141,6 +141,7 @@
 | [3778-transform-array-by-parity](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3790-fruits-into-baskets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -279,6 +280,7 @@
 | [3676-smallest-number-with-all-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
 | ------- |
