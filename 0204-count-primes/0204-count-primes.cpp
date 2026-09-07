@@ -1,25 +1,25 @@
-class Solution {
-public:
-    int  seive(int n) {
-        vector<bool> prime(n + 1, true);
-        prime[0] = false;
-        prime[1] = false;
-        for (int i = 2; i * i < n; i++) {
-            if (prime[i] == true) {
-                for (int j = i * i; j < n; j += i) {
-                    prime[j] = false;
-                }
+vector<bool>isPrime(5e6+1, true);
+bool seive(){
+    isPrime[1]= isPrime[0] = false;
+    for(long long i=2; i<=5e6; i++){
+        if(isPrime[i]==true){
+            for(long long j = i*i; j<=5e6; j+=i){
+                isPrime[j] = false;
             }
         }
+    }
+    return true; 
+}
+bool k = seive();
+class Solution {
+public:
+    int countPrimes(int n) {
+        n--;
         int c=0;
-        while (n--) {
-            if (prime[n])
-                c++;
+        while(n>1){
+            if(isPrime[n]) c++;
+            n--;
         }
         return c;
     }
-        int countPrimes(int n) {
-            int c = seive(n);
-            return c;
-        }
-    };
+};
