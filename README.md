@@ -110,6 +110,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-range-product-queries-of-powers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2529-range-product-queries-of-powers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2614-prime-in-diagonal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2614-prime-in-diagonal) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2714-left-and-right-sum-differences) |
@@ -266,6 +267,7 @@
 | [2556-convert-the-temperature](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2614-prime-in-diagonal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2614-prime-in-diagonal) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2812-find-the-maximum-achievable-number) |
@@ -317,6 +319,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1706-where-will-the-ball-fall) |
 | [1791-richest-customer-wealth](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1791-richest-customer-wealth) |
 | [2103-find-all-groups-of-farmland](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2103-find-all-groups-of-farmland) |
+| [2614-prime-in-diagonal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2614-prime-in-diagonal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -548,6 +551,7 @@
 | [2491-smallest-even-multiple](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2507-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2523-closest-prime-numbers-in-range) |
+| [2614-prime-in-diagonal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2614-prime-in-diagonal) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
