@@ -122,6 +122,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3115-maximum-prime-difference](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3115-maximum-prime-difference) |
 | [3194-find-words-containing-character](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3226-minimum-number-game) |
@@ -271,6 +272,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2812-find-the-maximum-achievable-number) |
+| [3115-maximum-prime-difference](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3115-maximum-prime-difference) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -552,6 +554,7 @@
 | [2507-number-of-common-factors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2507-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2614-prime-in-diagonal) |
+| [3115-maximum-prime-difference](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3115-maximum-prime-difference) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -795,6 +798,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2523-closest-prime-numbers-in-range) |
+| [3115-maximum-prime-difference](https://github.com/nimishakavisrinithya/C-Repo/tree/master/3115-maximum-prime-difference) |
 ## Sieve Theory
 |  |
 | ------- |
