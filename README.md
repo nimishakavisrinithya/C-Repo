@@ -87,6 +87,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1944-truncate-sentence](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2058-concatenation-of-array) |
@@ -259,6 +260,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2491-smallest-even-multiple) |
@@ -550,6 +552,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2507-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2523-closest-prime-numbers-in-range) |
@@ -809,4 +812,12 @@
 | ------- |
 | [0204-count-primes](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nimishakavisrinithya/C-Repo/tree/master/2523-closest-prime-numbers-in-range) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
