@@ -820,4 +820,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nimishakavisrinithya/C-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/nimishakavisrinithya/C-Repo/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
